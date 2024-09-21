@@ -6,4 +6,5 @@ Nel caso di MacOS installa prima Homebrew: https://brew.sh/it/
 
 Dopo isntalla PHP con il comando: brew install python
 
-Dopo dovrebbe funzionare, da chiarire ancora come fare con SQL
+Ma ciò non è sufficiente, ricordati che hai usato Anaconda e dopo Spyder come IDE Phyton, se devi rifarlo installa tutti i pacchetti da terminale: pip install numpy pandas matplotlib seaborn scikit-learn scipy
+
