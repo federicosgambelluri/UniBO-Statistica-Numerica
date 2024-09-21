@@ -1,3 +1,6 @@
+#Ricordati sempre di eseguire questi comandi sul terminale
+# pip install numpy pandas matplotlib seaborn scikit-learn scipy
+#Maggiori info nel README.md
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
